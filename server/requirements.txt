@@ -1,0 +1,3 @@
+mysqclient
+passlib[bcrypt]
+python-jose[cryptography]

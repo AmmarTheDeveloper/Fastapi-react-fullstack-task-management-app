@@ -1,0 +1,10 @@
+/backend for reference
+/client/node_modules
+/server/__pycache__
+/server/schemas/__pycache__
+/server/routes/__pycache__
+/server/repositories/__pycache__
+/server/models/__pycache__
+/server/middlewares/__pycache__
+/server/helper/__pycache__
+/server/enums/__pycache__
